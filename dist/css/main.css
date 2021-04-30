@@ -1,0 +1,13 @@
+body {
+  background: yellowgreen; }
+
+h1 {
+  color: blueviolet; }
+
+.test {
+  width: 200px;
+  height: 200px;
+  background-image: url(../assets/lemurs-sm.png); }
+
+
+/*# sourceMappingURL=main.css.map*/
