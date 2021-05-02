@@ -1,0 +1,38 @@
+//COLORS
+
+$body-bg: #F6F9FA;
+$bg-main: rgb(43, 129, 136);
+$dropdown-bg: #488D92;
+$light: #C5E1E5;
+$dark: #0D444D;
+$dark-text: #2D2D2D;
+$light-text: #B2B2B2;
+$hero-text: #F3F7F8;
+$transparent: rgba(0,0,0,0);
+
+// $yellow-bttn: #FFF5BA;
+// $bttn-yellow: #AD954B;
+// $hero-bg: #2A8086;
+// $bttn-lined: #19707D;
+
+
+// PADDINGS
+
+$padding-mobile-sm: 10px;
+$padding-mobile-lg: 20px;
+$padding-tablet: 30px;
+$padding-desktop: 220px;
+
+// CONTENT WIDTH
+
+$mobile-sm-content: 300px;
+$mobile-lg-content: 600px;
+$tablet-content: 1140px;
+$desktop-content: 1480px;
+
+// BREAKPOINTS
+
+$mobile-sm: 320px;
+$mobile-lg: 640px;
+$tablet: 1200px;
+$desktop: 1920px;
