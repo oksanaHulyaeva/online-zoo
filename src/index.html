@@ -4,10 +4,37 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="./assets/img/favicon.png">
   <title>Online ZOO</title>
 </head>
 <body>
-  <h1>Online Zoo</h1>
+  <header class="header">
+    <h1 class="header__title">Online ZOO</h1>
+    <div class="header__content">
+      <div class="header__navblock">
+        <a href="./index.html" class="logo"></a>
+        <nav class="navblock">
+          <ul>
+            <li><a href="./index.html" class="navblock__navlink">About</a></li>
+            <li><a href="./map.html" class="navblock__navlink navblock__navlink-active">Map</a></li>
+            <li><a href="./pandas.html" class="navblock__navlink">Zoos</a></li>
+            <li><a href="/" class="navblock__navlink">Contact us</a></li>
+            <li><a href="https://www.figma.com/file/vzrwoqf0kSG1uOify8BRBR/online-zoo" class="navblock__navlink">Design</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="header__burger burger-icon"></div>
+      <div class="header__toolbar toolbar">
+        <form action="" class="toolbar__search search">
+          <input type="text" class="search__input hidden">
+          <button class="search__button"></button>
+        </form>
+        <button class="toolbar__login button">Log in</button>
+        <button class="toolbar__signup button">Sign Up</button>
+        <button class="toolbar__autorization button"></button>
+      </div>
+    </div>
+  </header>
   
 </body>
 </html>

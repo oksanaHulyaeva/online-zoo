@@ -3,6 +3,7 @@
 $body-bg: #F6F9FA;
 $bg-main: rgb(43, 129, 136);
 $dropdown-bg: #488D92;
+$dropdown-active: #76babe;
 $light: #C5E1E5;
 $dark: #0D444D;
 $dark-text: #2D2D2D;
@@ -18,21 +19,15 @@ $transparent: rgba(0,0,0,0);
 
 // PADDINGS
 
-$padding-mobile-sm: 10px;
-$padding-mobile-lg: 20px;
+$padding-mobile: 20px;
 $padding-tablet: 30px;
-$padding-desktop: 220px;
-
-// CONTENT WIDTH
-
-$mobile-sm-content: 300px;
-$mobile-lg-content: 600px;
-$tablet-content: 1140px;
-$desktop-content: 1480px;
+$padding-laptop: 40px;
+$padding-desktop: 60px;
 
 // BREAKPOINTS
 
-$mobile-sm: 320px;
-$mobile-lg: 640px;
-$tablet: 1200px;
-$desktop: 1920px;
+$mobile: 480px;
+$tablet: 768px;
+$laptop: 1024px;
+$desktop: 1200px;
+$large: 1920px;

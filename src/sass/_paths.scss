@@ -1,0 +1,236 @@
+.logo {
+  background-image: url(../assets/img/logo.svg);
+  &:hover {
+    background-image: url(../assets/img/logo-hover.svg);
+  }
+}
+.burger-icon {
+  background-image: url(../assets/img/icons/burger-menu.svg);
+  &:hover {
+    background-image: url(../assets/img/icons/burger-hover.svg);
+  }
+}
+.search__button {
+  background-image: url(../assets/img/icons/search-icon.svg);
+}
+.toolbar__autorization {
+  background-image: url(../assets/img/icons/signup-icon.svg);
+}
+// .hero__panda {
+//   background-image: url(../assets/img/pandas-m.png);
+// }
+// .hero__panda-youtube {
+//   background-image: url(../assets/img/icons/youtube-icon.svg);
+// }
+// .binocular-icon {
+//   background-image: url(../assets/img/icons/binocular-icon.svg);
+// }
+// .heart-icon {
+//   background-image: url(../assets/img/icons/heart-icon.svg);
+// }
+// .hand-icon {
+//   background-image: url(../assets/img/icons/hand-icon.svg);
+// }
+// .illustration {
+//   background-image: url(../assets/img/illustr-frame-320.png);
+// }
+// .illustration__tree,
+// .donate__tree {
+// background-image: url(../assets/img/illustr-tree.svg);
+// }
+// .illustration__panda,
+// .donate__panda {
+//   background-image: url(../assets/img/illustr-panda.svg);
+// }
+// .illustration__bamboo,
+// .donate__bamboo {
+//   background-image: url(../assets/img/illustr-bamboo.svg);
+// }
+// .arrow-left {
+//   background-image: url(../assets/img/arrow-left.svg);
+//   &:hover {
+//     background-image: url(../assets/img/arrow-left-hover.svg);
+//   }
+// }
+// .arrow-right {
+//   background-image: url(../assets/img/arrow-right.svg);
+//   &:hover {
+//     background-image: url(../assets/img/arrow-right-hover.svg);
+//   }
+// }
+
+// .pets__tv-icon {
+//   background-image: url(../assets/img/icons/tv-icon.svg);
+// }
+// .pets__button::before,
+// .pets__header-button::before {
+//   background-image: url(../assets/img/icons/heart-button-icon.svg);
+// }
+// .pets__container::after {
+//   background-image: url(../assets/img/penguin.svg);
+// }
+
+// .look__gallery-pic.pandas,
+// .pets__pic.pandas,
+// .sidebar__item-pic.pandas,
+// .map__animal.inner.pandas {
+//   background-image: url(../assets/img/pandas-sm.png);
+// }
+// .look__gallery-pic.alligators,
+// .pets__pic.alligators,
+// .sidebar__item-pic.alligators,
+// .map__animal.inner.alligators {
+//   background-image: url(../assets/img/alligators-sm.png);
+// }
+// .look__gallery-pic.eagles,
+// .pets__pic.eagles,
+// .sidebar__item-pic.eagles,
+// .map__animal.inner.eagles {
+//   background-image: url(../assets/img/eagles-sm.png);
+// }
+// .look__gallery-pic.elephants,
+// .pets__pic.elephants,
+// .sidebar__item-pic.elephants {
+//   background-image: url(../assets/img/elephants-sm.png);
+// }
+// .look__gallery-pic.gorillas,
+// .pets__pic.gorillas,
+// .sidebar__item-pic.gorillas,
+// .map__animal.inner.gorillas {
+//   background-image: url(../assets/img/gorillas-sm.png);
+// }
+// .look__gallery-pic.lemurs,
+// .pets__pic.lemurs,
+// .sidebar__item-pic.lemurs {
+//   background-image: url(../assets/img/lemurs-sm.png);
+// }
+
+// .pay {
+//   background-image: url(../assets/img/pay-frame-320.png);
+// }
+
+// .pay__icon.donateicon {
+//   background-image: url(../assets/img/icons/donate-icon.svg);
+// }
+// .pay__icon.trust {
+//   background-image: url(../assets/img/icons/trust-icon.svg);
+// }
+// .pay__icon.monkey {
+//   background-image: url(../assets/img/icons/monkey-icon.svg);
+// }
+
+// .pay__icon-decor::after {
+//   background-image: url(../assets/img/arrow-right-white.svg);
+// }
+
+// .testimonials__button::before,
+// .testimonials__header-button::before {
+//   background-image: url(../assets/img/icons/message-button-icon.svg);
+// }
+
+// .testimonials__person-pic.person1 {
+//   background-image: url(../assets/img/person1.png);
+// }
+// .testimonials__person-pic.person2 {
+//   background-image: url(../assets/img/person2.png);
+// }
+// .testimonials__person-pic.person3 {
+//   background-image: url(../assets/img/person3.png);
+// }
+
+// // PAGES
+
+// .dropdown-menu__pic.pandas {
+//   background-image: url(../assets/img/pandas-sm.png);
+// }
+// .dropdown-menu__pic.eagles {
+//   background-image: url(../assets/img/eagles-sm.png);
+// }
+// .dropdown-menu__pic.alligators {
+//   background-image: url(../assets/img/alligators-sm.png);
+// }
+// .dropdown-menu__pic.gorillas {
+//   background-image: url(../assets/img/gorillas-sm.png);
+// }
+// .dropdown-menu__icon {
+//   background-image: url(../assets/img/icons/dropdown-icon.svg);
+//   &:hover {
+//     background-image: url(../assets/img/icons/dropdown-icon-hover.svg);
+//   }
+// }
+
+// .maincam__info-icon {
+//   background-image: url(../assets/img/icons/maincam-info.svg);
+// }
+// .maincam__heart-icon {
+//   background-image: url(../assets/img/icons/maincam-heart.svg);
+// }
+
+// .info__facts-item {
+//   list-style-image: url(../assets/img/icons/list-style.svg);
+// }
+
+// .plus-icon {
+//   background-image: url(../assets/img/icons/plus-icon.svg);
+// }
+
+// .minus-icon {
+//   background-image: url(../assets/img/icons/minus-icon.svg);
+// }
+
+// .map {
+//   background-image: url(../assets/img/Map.svg);
+// }
+
+
+// //MEDIA
+
+// @media (min-width: 640px) {
+
+//   .hero {
+//     background-image: url(../assets/img/hero-frame-640.png);
+//   }
+//   .illustration {
+//     background-image: url(../assets/img/illustr-frame-640.png);
+//   }
+//   .pay {
+//     background-image: url(../assets/img/pay-frame-640.png);
+//   }
+//   .donate {
+//     background-image: url(../assets/img/donate-frame-640.png);
+//   }
+
+// }
+
+// @media (min-width: 1200px) {
+
+//   .hero {
+//     background-image: url(../assets/img/hero-frame-1200.png);
+//   }
+//   .illustration {
+//     background-image: url(../assets/img/illustr-frame-1200.png);
+//   }
+//   .pay {
+//     background-image: url(../assets/img/pay-frame-1200.png);
+//   }
+//   .donate {
+//     background-image: url(../assets/img/donate-frame-1200.png);
+//   }
+// }
+
+// @media (min-width: 1920px) { 
+
+//   .hero {
+//     background-image: url(../assets/img/hero-frame.svg);
+//   }
+//   .illustration {
+//     background-image: url(../assets/img/illustr-frame.svg);
+//   }
+//   .pay {
+//     background-image: url(../assets/img/pay-frame.svg);
+//   }
+//   .donate {
+//     background-image: url(../assets/img//donate-frame.svg);
+//   }
+
+// }
